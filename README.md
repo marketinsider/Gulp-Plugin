@@ -3,12 +3,11 @@
 ## Globle
 
 - https://browsersync.io/docs/gulp
+- https://www.npmjs.com/package/gulp-concat
 
 ## HTML
 
 - https://www.npmjs.com/package/gulp-htmlmin
-
-
 
 ## CSS
 
@@ -20,6 +19,10 @@
 
 ## JS
 
-- https://www.npmjs.com/package/gulp-concat
-- https://www.npmjs.com/package/gulp-minify
+- https://www.npmjs.com/package/gulp-uglify
 - https://www.npmjs.com/package/gulp-cdnizer
+- https://www.npmjs.com/package/gulp-uglify
+
+## IMAGE
+
+- https://www.npmjs.com/package/gulp-imagemin
