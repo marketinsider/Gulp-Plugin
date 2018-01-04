@@ -19,7 +19,7 @@
 
 ## JS
 
-- https://www.npmjs.com/package/gulp-uglify
+- https://www.npmjs.com/package/gulp-minify
 - https://www.npmjs.com/package/gulp-cdnizer
 
 ## IMAGE
