@@ -13,7 +13,7 @@
 
 - https://www.npmjs.com/package/gulp-csso
 - https://www.npmjs.com/package/gulp-sass
-- https://www.npmjs.com/package/autoprefixer
+- https://www.npmjs.com/package/gulp-autoprefixer
 - https://www.npmjs.com/package/gulp-group-css-media-queries
 - https://www.npmjs.com/package/gulp-uncss
 
