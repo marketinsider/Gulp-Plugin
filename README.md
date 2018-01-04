@@ -21,7 +21,6 @@
 
 - https://www.npmjs.com/package/gulp-uglify
 - https://www.npmjs.com/package/gulp-cdnizer
-- https://www.npmjs.com/package/gulp-uglify
 
 ## IMAGE
 
